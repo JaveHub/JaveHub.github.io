@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on debug4j</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Docs on debug4j</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modules</title>
+      <link>//localhost:1313/docs/%E7%AC%AC%E4%B8%80%E7%AB%A0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/%E7%AC%AC%E4%B8%80%E7%AB%A0/</guid>
+      <description>&lt;p&gt;Hello WORD b1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overview</title>
+      <link>//localhost:1313/docs/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/overview/</guid>
+      <description>&lt;p&gt;第三季度叫司机 n&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>第一章</title>
+      <link>//localhost:1313/docs/a1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/a1/</guid>
+      <description>&lt;p&gt;Hello WORD&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>指ss南</title>
+      <link>//localhost:1313/docs/%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/%E6%8C%87%E5%8D%97/</guid>
+      <description>&lt;h1 id=&#34;头脑风暴-添加主题&#34;&gt;💡头脑风暴： 添加主题&lt;/h1&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;strong&gt;目标&lt;/strong&gt;&lt;/th&gt;&#xA;          &lt;th&gt;您想要什么样的想法？&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;参与者&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;@提及您自己和其他人&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;相关&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;- 🔗 &lt;a href=&#34;//localhost:1313/&#34;&gt;插入一些文档或链接&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;灵感&#34;&gt;灵感&lt;/h2&gt;&#xA;&lt;p&gt;使用您点击“返回”时显示的工具栏来添加图片、视频等&lt;/p&gt;&#xA;&lt;h2 id=&#34;想法&#34;&gt;想法&lt;/h2&gt;&#xA;&lt;p&gt;向团队提出一个问题，让事情顺利进行&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;后续步骤&#34;&gt;后续步骤&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 打破陈规 @某人&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 从待办到完成 @某人&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
